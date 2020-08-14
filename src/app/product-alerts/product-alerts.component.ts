@@ -40,6 +40,8 @@ export class ProductAlertsComponent implements OnInit {
   }
 
 }
+
+// this.route.
 // <p *ngIf="product.price > 700">
   // <button (click)="notify.emit()">Notify Me</button>
 // </p>
